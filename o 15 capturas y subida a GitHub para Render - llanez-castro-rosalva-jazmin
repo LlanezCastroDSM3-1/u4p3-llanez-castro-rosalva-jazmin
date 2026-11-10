@@ -1,0 +1,15 @@
+[33m039352b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m paso 12: comando cargar_demo con datos de prueba - llanez-castro-rosalva-jazmin
+[33ma82f719[m paso 11: plantillas de categorias, facturas y reportes - llanez-castro-rosalva-jazmin
+[33m4d793ac[m paso 10: rutas de categorias, facturas y reportes - llanez-castro-rosalva-jazmin
+[33m7b5265c[m paso 09: vistas de categorias, facturas y reportes - llanez-castro-rosalva-jazmin
+[33m74aa780[m paso 08: reportes.py con las 6 consultas SQL - llanez-castro-rosalva-jazmin
+[33m7789703[m paso 07: formularios de categoria, factura y renglones - llanez-castro-rosalva-jazmin
+[33mc24be41[m paso 06: registrar categorias y facturas en el admin - llanez-castro-rosalva-jazmin
+[33m49410c3[m paso 05: tablas Factura y DetalleFactura con indices - llanez-castro-rosalva-jazmin
+[33m1c9c09c[m paso 04: quitar categoria de texto y renombrar la llave foranea - llanez-castro-rosalva-jazmin
+[33mb52349d[m paso 03: migracion de datos que copia las categorias - llanez-castro-rosalva-jazmin
+[33m69bccfc[m paso 02: tabla Categoria y llave foranea temporal - llanez-castro-rosalva-jazmin
+[33m33326e4[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m)[m U4S8: version final del curso (README definitivo)
+[33m97c484e[m asd
+[33mc9f537e[m Agrega respaldo de la base de datos Django
+[33m7cf9b85[m sdjh
